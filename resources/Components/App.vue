@@ -1,6 +1,7 @@
 <template>
-    <h1 class="mt-5">Vue working!</h1>
-    <button class="rounded-full">test</button>
+    <h1 class="text-3xl font-bold underline">
+        Hello world!
+    </h1>
 </template>
 
 <script>
